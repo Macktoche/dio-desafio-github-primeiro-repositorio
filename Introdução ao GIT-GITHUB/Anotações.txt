@@ -1,0 +1,9 @@
+1 Download do GIT
+2 Clonar a pasta do GITHUB na minha máquina
+
+Enviar arquivo para o GITHUB
+git status
+git add .
+git commit -m "Inclusao das anotaçoes"
+git status
+git push origin main
