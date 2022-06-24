@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta.charset="utf -8">
+	<title>Almir Junior</title>
+		<link rel="stylesheet" href="style.css">
+	
+  </head>
+  <body>
+	<header>
+	<img src="C:\Users\almir\OneDrive\Desktop\PERFILNARUTO_HTML.jpg" alt ="Narutin Maroto" class="photo">
+		<h1 id="title"> Almir Junior</h1>
+		
+	</header>
+	<section>
+		<header> 
+			<h2 class="subtitle"> POSTS</h2>
+		</header>
+		<article class="post">
+			<header> 
+				<h3 class="post_title"> POSTS #1</h3>
+				<img src="C:\Users\almir\OneDrive\Desktop\NARUTIN_HTML.jpg" alt ="Narutin Maroto PUTO" class="post_image">
+			</header>
+			<p class="post_content"> 
+			Lorem Ipsum is simply dummy text of <a href="https://www.youtube.com/"target="_blanck"> vai corinthians</a>the printing and typesetting industry. 
+			Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+			when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+			It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+			It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+			and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+			<a href="almirjunior96@gmail.com"> EMAIL</a>
+			</p>
+		</article>
+		
+	</section>
+	<footer>
+	<ol class="contacts_list"> 
+	<li>
+	<a href="almir:almirjunior96@gmail.com">almirjunior96@gmail.com</a>
+	</li>
+	
+	<li>
+	<a href="https://www.linkedin.com/in/almirjljunior/"target="_blanck">Linkedin</a>
+	</li>
+	
+	<li>
+	<a href="https://github.com/Macktoche" target="_blanck">GITHUB</a>
+	</li>
+	
+	
+	</ol>
+	</footer>
+  </body>
+</html>
